@@ -4,7 +4,7 @@
 
 #SALIDA: ingresar su salario para saber si paga impuesto o no
 #PROCESO: saber si el salario de la persona paga impuesto o no
-
+#autor
 salario=float(input("ingrese su salario:"))
 if salario > 3000:
     impuesto = salario * 0.15
